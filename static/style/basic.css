@@ -1,0 +1,46 @@
+.navbar-brand{
+
+
+    color: white;
+}
+.nav-link{
+    color: white;
+}
+.carousel img{
+    height: 500px;
+    
+}
+.cardd img{
+    height: 250px;
+}
+.card-img-top{
+    height: 100px;
+}
+.card-body{
+    text-align: center;
+    color: black;
+    background-color: rgba(255, 85, 0, 0.929);
+}
+
+
+.card-group{
+    
+    width:150px ;
+}
+.textt{
+    text-align: center;
+}
+.container{
+    height: 200px;
+    width: 300;
+}
+.cardd{
+    display: flex;
+}
+.card{
+    margin: 0.7em;
+    font-size: larger;
+}
+.bgd{
+    background-color: rgba(255, 68, 0, 0.783);
+}
